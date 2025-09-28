@@ -10,4 +10,8 @@ pip freeze > requirements.txt
 ##### This is an h5 header
 ###### This is an h6 header
 
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [x] Introduce myself to the world
+
 
